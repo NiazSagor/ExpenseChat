@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kori Chat</string>
+    <string name="ai_assistant">AI Assistant</string>
+    <string name="chat_message_hint">Type a message…</string>
+</resources>

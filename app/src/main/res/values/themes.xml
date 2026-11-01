@@ -1,0 +1,4 @@
+<resources>
+    <!-- Compose draws the UI; this base theme just removes the ActionBar. -->
+    <style name="Theme.KoriChat" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
